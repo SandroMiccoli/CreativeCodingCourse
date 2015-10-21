@@ -11,12 +11,12 @@ O principal resultado do curso seria a geração de imagens generativas estátic
 
 ##Planejamento
 
-Aula 1 - Dinâmica de Grupo - Algoritmos
-Aula 2 - Prazer, Processing
-Aula 3 - Variáveis, animação e condicionais
-Aula 4 - Loops, funções e um pouco de caos
-Aula 5 - Matemática!
-Aula 6 - Fractais
-Aula 7 - Imagens e Vídeo
-Aula 8 - Bibliotecas
+- Aula 1 - Dinâmica de Grupo - Algoritmos
+- Aula 2 - Prazer, Processing
+- Aula 3 - Variáveis, animação e condicionais
+- Aula 4 - Loops, funções e um pouco de caos
+- Aula 5 - Matemática!
+- Aula 6 - Fractais
+- Aula 7 - Imagens e Vídeo
+- Aula 8 - Bibliotecas
 
